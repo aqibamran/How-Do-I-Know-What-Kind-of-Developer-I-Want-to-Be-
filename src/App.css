@@ -32,7 +32,7 @@
 
 .button:link, .button:visited {
   border-radius: 99px;
-  color: #fff;
+  color: #000000;
   background-color: #ff00b8;
   cursor: pointer;
   border: 15px solid #ff00b8;
