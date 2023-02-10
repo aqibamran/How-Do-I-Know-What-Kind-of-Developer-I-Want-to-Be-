@@ -7,12 +7,12 @@ function PetForm() {
     
       <span>
         <input type="checkbox" id="pet" name="pet" value="Cat" />
-        <label htmlFor="pet">Cats 😻</label>
+        <label htmlFor="pet">Cats 😻</label> 
         </span>
         <span>
         <br />
-        <input type="checkbox" id="pet" name="pet" value="Dog" />          
-        <label htmlFor="pet">Dogs 🐶</label>
+        <input type="checkbox" id="pet2" name="pet" value="Dog" />          
+        <label htmlFor="pet2">Dogs 🐶</label>
       </span>
     </div>
   );
